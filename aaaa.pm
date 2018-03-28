@@ -2,7 +2,7 @@
 
 =encoding utf8
 
-=head1 タイトル
+=head1 タイトルです
 
 =over 4
 
