@@ -37,5 +37,5 @@ input  ユーザー名
 
 sub say {
   my $user_name = shift;
-  print "$user_name : Hello world!\n"
+  print "$user_name : Hello world!!\n"
 }
