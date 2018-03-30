@@ -1,3 +1,8 @@
+package HelloWorld;
+
+use strict;
+use warnings;
+
 =encoding utf8
 
 =head1 NAME
@@ -6,9 +11,11 @@ Hello worldスクリプト
 
 =head1 DESCRIPTION
 
-Hello worldを出力するスクリプト
+Hello worldを出力するスクリプト。
 
 =head1 METHODS
+
+=cut
 
 =head2 say
 
@@ -26,3 +33,9 @@ input  ユーザー名
 
 =back
 
+=cut
+
+sub say {
+  my $user_name = shift;
+  print "$user_name : Hello world!!\n"
+}
