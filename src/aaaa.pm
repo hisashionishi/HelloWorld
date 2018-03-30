@@ -11,7 +11,7 @@ Hello worldスクリプト
 
 =head1 DESCRIPTION
 
-Hello worldを出力するスクリプト
+Hello worldを出力するスクリプト。
 
 =head1 METHODS
 
