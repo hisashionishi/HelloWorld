@@ -21,6 +21,19 @@ Hello worldを出力するスクリプト。
 
 =end html
 
+=begin markdown
+
+# テスト
+
+=end
+
+=begin markdown
+
+= テスト
+
+=end
+
+
 =head2 say
 
 =head3 DESCRIPTION
