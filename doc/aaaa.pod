@@ -12,12 +12,33 @@ Hello worldを出力するスクリプト。
 
 =begin html
 
-<table>
-  <tr>
-    <td>a</td>
-    <td>b</td>
-  </tr>
-</table>
+<h1>パッケージ名</h1>
+<p>パッケージ</p>
+<h1>概要</h1>
+<p>概要です</p>
+<h1>メソッド</h1>
+<h2>メソッド名</h2>
+<h3>処理概要</h3>
+<p>何やかんや初期化を行う。</p>
+<h3>Attribute</h3>
+<p>Private</p>
+<h3>パラメータ</h3>
+<ul>
+  <li>$self 自身のオブジェクト</li>
+  <li>$c Catalystコンテキスト</li>
+</ul>
+<h3>結果</h3>
+<h4>戻り値</h4>
+<ul>
+  <li>常に1</li>
+</ul>
+<h4>$c->config</h4>
+<ul>
+  <li>FREE_SHIPPING FREE_SHIPPING または VIP_FREE_SHIPPING</li>
+</ul>
+<h3>処理詳細</h3>
+<h4>〇〇処理</h4>
+<p>何やかんやします</p>
 
 =end html
 
