@@ -10,6 +10,17 @@ Hello worldを出力するスクリプト。
 
 =head1 METHODS
 
+=begin html
+
+<table>
+  <tr>
+    <td>a</td>
+    <td>b</td>
+  </tr>
+</table>
+
+=end html
+
 =head2 say
 
 =head3 DESCRIPTION
@@ -25,4 +36,3 @@ Hello worldを出力する
 input  ユーザー名
 
 =back
-
