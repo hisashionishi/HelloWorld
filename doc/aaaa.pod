@@ -25,13 +25,13 @@ Hello worldを出力するスクリプト。
 
 # テスト
 
-=end
+=end markdown
 
-=begin markdown
+=begin asciidoc
 
 = テスト
 
-=end
+=end asciidoc
 
 
 =head2 say
